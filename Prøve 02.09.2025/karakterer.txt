@@ -1,0 +1,6 @@
+Eirik 6 
+Henrik 5 
+Jonas 4 
+Ayman 3 
+David 2 
+Aryan 1 
